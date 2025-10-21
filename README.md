@@ -230,7 +230,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **GitHub Issues**: [Report bugs or request features]
 - **Discord**: [Join our community server]
-- **Email**: drama.fm@example.com
+- **Email**: dev@drama-fm.com
 - **Documentation**: [Full documentation and API reference]
 
 ---
